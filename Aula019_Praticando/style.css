@@ -87,3 +87,26 @@ li {
     margin-left: 2em;
 
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 60px 0px 60px;
+    background-color: rgb(185, 44, 44);
+    height: 500px;
+}
+
+fieldset {
+    padding: 10px 10px 0px 10px;
+    height: 150px;
+    width: 500px;
+}
+
+#botao{
+    width: 100px;
+}
+
+div#fala {
+    margin-top: 10px;
+}
